@@ -1,0 +1,40 @@
+h1.header {
+	color: #0000ff;
+	background-color: #00ff00;
+	padding: 20px;
+	text-align: center;
+}
+
+img {
+	padding-right: 20px;
+}
+
+div {
+	text-align: justify;
+	padding: 10px;
+}
+
+div .books {
+	float:left;
+	width: 250px;
+	height: 500px;
+}
+
+div.menu {
+	background-color: #99c6e7;
+	text-align: center;
+}
+
+div.menu a {
+	padding: 10px;
+	color: #800000;
+}
+
+div.menu a:hover {
+	background-color: #ffffff;
+}
+
+a.underline {
+	text-decoration: underline;
+}
+

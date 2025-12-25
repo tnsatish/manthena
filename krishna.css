@@ -1,0 +1,32 @@
+h1 {
+	page-break-before: always;
+	text-align: center;
+}
+h2{
+	text-align: center;
+}
+div {
+	text-align: justify;
+	padding: 10px;
+}
+.right {
+	text-align:right;
+}
+.center {
+	text-align: center;
+}
+p {
+	text-align: justify;
+}
+li {
+	text-align: justify;
+}
+body {
+	line-height: 200%;
+	padding:20px;
+}
+/* for mobile */
+body {
+/*	font-size: 150%; */
+}
+

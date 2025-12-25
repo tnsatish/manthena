@@ -1,0 +1,13 @@
+@media screen and (max-width: 600px) {
+  .videos iframe {
+    width: 90%;
+    height: 50%;
+  }
+}
+
+@media screen and (min-width: 600px) {
+  .videos iframe {
+    width: 560px;
+    height: 315px;
+  }
+}
